@@ -1,0 +1,62 @@
+#: locale=es
+
+## Tour
+
+### Description
+tour.description = CIT a casa do instrutor apresenta o seu Passeio Virtual em 360º, conheça toda á nossa estrutura de uma forma inovadora.
+
+### Title
+tour.name = Passeio Virtual - CIT Brasil 
+
+## Skin
+
+### Button
+Button_A021923B_B23F_762B_41C9_D88AE6B679EB.label = Foto Aérea 
+Button_A021923B_B23F_762B_41C9_D88AE6B679EB_mobile.label = Foto Aérea 
+Button_A0DCD0C0_B23F_1255_41E3_7DF8C0B07A4A.label = Instrutores 
+Button_A0DCD0C0_B23F_1255_41E3_7DF8C0B07A4A_mobile.label = Instrutores 
+Button_A157FC70_B23F_1235_41B4_A47CA8EDB7F4.label = Site Oficial 
+Button_A157FC70_B23F_1235_41B4_A47CA8EDB7F4_mobile.label = Site Oficial 
+Button_A31ACC32_B223_1235_41C9_5E85540954F7.label = Fale Conosco 
+Button_A31ACC32_B223_1235_41C9_5E85540954F7_mobile.label = Fale Conosco 
+
+## Media
+
+### Title
+panorama_200F0C82_29B2_571A_41B3_BB8AFA80C035.label = 26
+panorama_200F1CDA_29B2_572B_41A8_1880B9DB3DE0.label = 23
+panorama_200F3CC9_29B2_7716_41C0_92C105DE72BA.label = 24
+panorama_200F3EE4_29B2_331E_41BC_23F4E86B7FDC.label = 22
+panorama_200F8236_29B2_337B_41A0_D43987692165.label = 21
+panorama_2010B607_29AD_F31A_41C1_A7A8C00782A7.label = 18
+panorama_2010C856_29AD_DF3A_41C2_B69A98E1EC64.label = 17
+panorama_2010D38E_29AD_D12A_41AB_A27A81E77227.label = 19
+panorama_2011002B_29AE_EF69_41BA_6498B247F2CC.label = 3
+panorama_20110841_29AE_3F16_41B0_E40F453353DF.label = 16
+panorama_201127CC_29AE_512E_41B7_978A1AA59551.label = 15
+panorama_20114472_29AE_57FA_41B6_59D921E83DD0.label = 11
+panorama_201165C5_29AE_7119_41A8_08E16CB63BDB.label = 14
+panorama_201167C7_29AE_311A_41C2_140749D8FD81.label = 10
+panorama_20119E8B_29AE_F329_41B3_C1C9F039904C.label = 4
+panorama_2011BB33_29AE_D179_4187_EBAE9AAD9584.label = 6
+panorama_22E5D2EC_29AD_D0EE_417E_577CE9F64CBA.label = CIT BR - Aéreo
+panorama_236F12A9_29AE_7369_41B4_8AA63C481E06.label = 1
+video_35136259_2EBB_BBB7_41A5_1482051FA05E.label = Vídeo Professor (2)
+
+## Action
+
+### URL
+LinkBehaviour_3705E642_2E9B_DB95_41C2_9BC12DA8F80A.source = https://www.google.com/maps/dir/-16.812832,-49.3751223/cit_brasil/@-16.7914698,-49.3965597,13z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x935ef7b62178bc5d:0x3684bf267acfa1f4!2m2!1d-49.3430331!2d-16.7596769
+LinkBehaviour_3715EE19_2E89_EBB7_41C4_ACDDF40B4C8F.source = https://api.whatsapp.com/send?phone=5562982678849&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20a%20respeito%20de...
+LinkBehaviour_3881B889_2E87_A894_41BD_5CF0B5C3AF1A.source = https://www.instagram.com/cit_brasil/
+LinkBehaviour_38A26D54_2E98_A9BD_419E_9457D556B53D.source = https://citbr.com.br/#/instrutores
+LinkBehaviour_38A2DD57_2E98_A9BC_41A3_78C299EB0B9B.source = https://api.whatsapp.com/send?phone=5562982678849&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20a%20respeito%20de...
+LinkBehaviour_38A32D58_2E98_A9B4_41AC_D66F4551B14B.source = https://www.instagram.com/cit_brasil/
+LinkBehaviour_38A37D58_2E98_A9B4_41B1_DBC4568E3ACD.source = https://www.google.com/maps/dir/-16.812832,-49.3751223/cit_brasil/@-16.7914698,-49.3965597,13z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x935ef7b62178bc5d:0x3684bf267acfa1f4!2m2!1d-49.3430331!2d-16.7596769
+LinkBehaviour_38BC3D4F_2E98_A9AB_41C5_DE76880D7056.source = https://api.whatsapp.com/send?phone=5562982678849&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20a%20respeito%20de...
+LinkBehaviour_38BD4D51_2E98_A9B7_41C0_779E589BA5F5.source = https://citbr.com.br/#/
+LinkBehaviour_38BEED4B_2E98_A9AB_41C4_BE22642537B5.source = https://www.instagram.com/cit_brasil/
+LinkBehaviour_38FCAD39_2E98_69F7_41C6_60317296B523.source = https://www.instagram.com/cit_brasil/
+LinkBehaviour_39EB9C82_2E88_A894_41C6_43451435F955.source = https://citbr.com.br/#/
+LinkBehaviour_39EEE389_2E88_5897_41C5_464F13B77370.source = https://api.whatsapp.com/send?phone=5562982678849&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20a%20respeito%20de...
+LinkBehaviour_39FF7FA1_2E89_A894_41C3_4D03AC99F8E2.source = https://citbr.com.br/#/instrutores
