@@ -14,7 +14,7 @@ tour.name = Passeio Virtual - CIT Brasil
 Button_A021923B_B23F_762B_41C9_D88AE6B679EB.label = Foto Aérea 
 Button_A021923B_B23F_762B_41C9_D88AE6B679EB_mobile.label = Foto Aérea 
 Button_A0DCD0C0_B23F_1255_41E3_7DF8C0B07A4A.label = Instrutores 
-Button_A0DCD0C0_B23F_1255_41E3_7DF8C0B07A4A_mobile.label = Instrutores 
+Button_A0DCD0C0_B23F_1255_41E3_7DF8C0B07A4A_mobile.label = Instrutores
 Button_A157FC70_B23F_1235_41B4_A47CA8EDB7F4.label = Site Oficial 
 Button_A157FC70_B23F_1235_41B4_A47CA8EDB7F4_mobile.label = Site Oficial 
 Button_A31ACC32_B223_1235_41C9_5E85540954F7.label = Fale Conosco 
@@ -41,21 +41,32 @@ panorama_20119E8B_29AE_F329_41B3_C1C9F039904C.label = 4
 panorama_2011BB33_29AE_D179_4187_EBAE9AAD9584.label = 6
 panorama_22E5D2EC_29AD_D0EE_417E_577CE9F64CBA.label = CIT BR - Aéreo
 panorama_236F12A9_29AE_7369_41B4_8AA63C481E06.label = 1
+photo_3D3B721F_32F1_8FA7_4176_E828F4DEB008.label = LOGO 500X500
 video_35136259_2EBB_BBB7_41A5_1482051FA05E.label = Vídeo Professor (2)
+
+## Popup
+
+### Body
+htmlText_2023A2EA_3372_8C6E_41BD_6BBE9076BCD7.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Nossos planos:</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">.38SPL - com 2 horas semanais;</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"> 357MAG - com 5 horas semanais;</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"> 454CASULL - com 8 horas semanais.</SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">SOLICITE UM ORÇAMENTO AGORA MESMO!</SPAN></DIV></BODY></HTML></div>
+htmlText_2092B0AB_3292_8CEE_41BD_3371B7A45EC5.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Sala de aula climatizada e com todos os recursos audiovisuais, podendo receber confortavelmente até 20 alunos.</SPAN></DIV></BODY></HTML></div>
+htmlText_20FC63B0_32B2_8CFA_41B6_553058710000.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Oferecemos uma equipe preparada para atendimento do instrutor, estrutura funcional e logística para realização de curso e treinamento de tiro. Além de todos esses benefícios, temos também um amplo salão de convivência com lanchonete e mesa de sinuca para descontração de todos os nossos alunos e associados.</SPAN></DIV></BODY></HTML></div>
+htmlText_21ED300C_3377_8BAA_41BF_42F046B28D62.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Todos os estandes possuem sala de aula com quadro branco.</SPAN></DIV></BODY></HTML></div>
+htmlText_26FE9C8A_3291_94A9_41C2_3FB39D8FDBDD.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Contamos com 3 estandes distintos, garantindo assim total privacidade e um ambiente pedagógico para suas aulas.</SPAN></DIV></BODY></HTML></div>
+htmlText_3D1B4159_32F3_8DAA_41C5_90CCCFD5E9B3.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">O Centro de Instrutores de Tiro Brasil (CIT), conta com estandes dinâmicos, possibilitando a realização de diversas modalidades na prática de tiro, oferece ainda espaço climatizado, sala de aula e um amplo espaço de convivência.</SPAN></DIV></BODY></HTML></div>
 
 ## Action
 
 ### URL
+LinkBehaviour_24F03842_3391_9B9E_418A_3F3FC22CEBCA.source = https://www.google.com/maps/dir/-16.812832,-49.3751223/cit_brasil/@-16.7914698,-49.3965597,13z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x935ef7b62178bc5d:0x3684bf267acfa1f4!2m2!1d-49.3430331!2d-16.7596769
+LinkBehaviour_24F71836_3391_9BE6_41B5_E933B02A0118.source = https://api.whatsapp.com/send?phone=5562982678849&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20a%20respeito%20de...
+LinkBehaviour_24F72840_3391_9B9A_41C2_FD53FFF0FCFD.source = https://citbr.com.br/#/instrutores
+LinkBehaviour_24F75838_3391_9BEA_41B1_058AB41C729F.source = https://citbr.com.br/#/
+LinkBehaviour_24F7B841_3391_9B9A_41AF_89C4052D9586.source = https://api.whatsapp.com/send?phone=5562982678849&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20a%20respeito%20de...
+LinkBehaviour_24F7E842_3391_9B9E_41C0_3A6DFF01D5FD.source = https://www.instagram.com/cit_brasil/
+LinkBehaviour_24FBC832_3391_9BFE_41C5_A5101A91995D.source = https://www.instagram.com/cit_brasil/
 LinkBehaviour_3705E642_2E9B_DB95_41C2_9BC12DA8F80A.source = https://www.google.com/maps/dir/-16.812832,-49.3751223/cit_brasil/@-16.7914698,-49.3965597,13z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x935ef7b62178bc5d:0x3684bf267acfa1f4!2m2!1d-49.3430331!2d-16.7596769
 LinkBehaviour_3715EE19_2E89_EBB7_41C4_ACDDF40B4C8F.source = https://api.whatsapp.com/send?phone=5562982678849&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20a%20respeito%20de...
 LinkBehaviour_3881B889_2E87_A894_41BD_5CF0B5C3AF1A.source = https://www.instagram.com/cit_brasil/
-LinkBehaviour_38A26D54_2E98_A9BD_419E_9457D556B53D.source = https://citbr.com.br/#/instrutores
-LinkBehaviour_38A2DD57_2E98_A9BC_41A3_78C299EB0B9B.source = https://api.whatsapp.com/send?phone=5562982678849&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20a%20respeito%20de...
-LinkBehaviour_38A32D58_2E98_A9B4_41AC_D66F4551B14B.source = https://www.instagram.com/cit_brasil/
-LinkBehaviour_38A37D58_2E98_A9B4_41B1_DBC4568E3ACD.source = https://www.google.com/maps/dir/-16.812832,-49.3751223/cit_brasil/@-16.7914698,-49.3965597,13z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x935ef7b62178bc5d:0x3684bf267acfa1f4!2m2!1d-49.3430331!2d-16.7596769
-LinkBehaviour_38BC3D4F_2E98_A9AB_41C5_DE76880D7056.source = https://api.whatsapp.com/send?phone=5562982678849&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20a%20respeito%20de...
-LinkBehaviour_38BD4D51_2E98_A9B7_41C0_779E589BA5F5.source = https://citbr.com.br/#/
-LinkBehaviour_38BEED4B_2E98_A9AB_41C4_BE22642537B5.source = https://www.instagram.com/cit_brasil/
 LinkBehaviour_38FCAD39_2E98_69F7_41C6_60317296B523.source = https://www.instagram.com/cit_brasil/
 LinkBehaviour_39EB9C82_2E88_A894_41C6_43451435F955.source = https://citbr.com.br/#/
 LinkBehaviour_39EEE389_2E88_5897_41C5_464F13B77370.source = https://api.whatsapp.com/send?phone=5562982678849&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20a%20respeito%20de...
