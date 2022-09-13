@@ -39,7 +39,7 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#CC9933",
  "theme_color": "#CC9933",
- "display": "fullscreen"
+ "display": "fullscreen",
+ "background_color": "#CC9933"
 }
